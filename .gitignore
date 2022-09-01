@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+evn/
+config.py
+bot_config.py
